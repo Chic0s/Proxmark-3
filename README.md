@@ -52,7 +52,8 @@ Avec un éditeur de texte comme Notepad++, il est possible de regarder les 64 bl
 
 Sur la première ligne, on peut retrouver l'identifiant du badge. Nous allons passer l'identifiant de notre futur badge à 12 34 56 78.
 
-Data.png
+![Data](https://user-images.githubusercontent.com/96829109/199744337-a98939f9-f803-4c38-a3cd-889a3a87c154.png)
+
 
 
 Ligne 23 : nous avons de la data, comme un prix, ou un accès. Il vous faudra comparer par vous même la mémoire. (Prix, Accès, ...)
